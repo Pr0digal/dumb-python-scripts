@@ -8,7 +8,7 @@ This is a growing collection of **silly scripts** made for laughs, learning, or 
 Here you'll find Python scripts that:
 
 - Generate passive-aggressive error messages 😤
-- [Rename your files with dad jokes 📁➡️🤣] (https://github.com/Pr0digal/dumb-python-scripts/blob/main/rename_folders_with_dad_jokes.py)
+- Rename your files with dad jokes 📁➡️🤣
 - Simulate AI having an existential crisis 🤖
 - And other chaotic-good behavior...
 
